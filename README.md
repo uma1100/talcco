@@ -32,9 +32,11 @@ $ pip3 install bocco
 uuidはboccoAPIを使用し、テキストをルームに送る際に使います。
 
 # boccoとは
-[ここ](http://www.bocco.me/)を見てください。
-API発行は[ここ](http://api-docs.bocco.me/)です。
-仕様は[こちら](https://github.com/YUKAI/bocco-api-python)です。
+[ここ](http://www.bocco.me/)を見てください。  
+API発行は[ここ](http://api-docs.bocco.me/)です。  
+仕様は[こちら](https://github.com/YUKAI/bocco-api-python)です。  
+※/hack コマンドは特別に用意してくれました。(2019-04現在)
+
 
 # プログラムの実行
 

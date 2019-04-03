@@ -57,13 +57,13 @@ def send_text(mes,angle):
     print(angle)
     # RIGHT
     if 60 <= angle <= 90:
-        b_i.send_bocco('/hack \n RIGHT 100')
+        b_i.send_bocco('/hack \n LEFT 100')
     # CENTER
     elif 90 < angle < 105:
         b_i.send_bocco('/hack \n UP 100 \n DOWN 100 \n LED 0 0 100 10')
     # LEFt
     elif 105 <= angle <= 125:
-        b_i.send_bocco('/hack \n LEFT 100')
+        b_i.send_bocco('/hack \n RIGHT 100')
     else:
         R = int(random.uniform(0,100))
         G = int(random.uniform(0,100))
