@@ -2,6 +2,8 @@
 
 ユカイ工学春のインターンシップに参加した際に作成したものとなります。[参照](https://www.wantedly.com/projects/287031)
 
+（追記：[Qiita](https://qiita.com/yuma1100/items/2afdf01f89cdb8d99bcc)にて記事を書きました。）
+
 # 概要
 
 「Codamaを使用したプロトタイプの作成」というテーマを元に作成をしました。
